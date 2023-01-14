@@ -1,0 +1,2 @@
+# Covid-19_Probability_Detector
+ A machine learning model is then trained on the data to find out the probability of a person having the infection. The model is then used to find out whom to test for the infection first under a limited testing capacity. The same model can be used to find potential candidate for conducting random tests. Parameters taken in consideration are : Average Fever-Continous Body Pain-0/1 Binary Age-Discrete Runny Nose Breathing Problem- Categorical: 0/1/-1
